@@ -117,7 +117,7 @@ public class CreateActivity extends AppCompatActivity {
                         etNama.setText("");
                         etMerk.setText("");
                         etHarga.setText("");
-                        Snackbar.make(findViewById(R.id.bt_submit), "Data berhasil masuk", Snackbar.LENGTH_LONG).show();
+                        Snackbar.make(findViewById(R.id.bt_submit), "Data berhasil dimasukkan", Snackbar.LENGTH_LONG).show();
                     }
                 });
     }
