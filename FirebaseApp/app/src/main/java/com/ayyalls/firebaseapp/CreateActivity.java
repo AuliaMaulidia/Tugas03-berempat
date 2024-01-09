@@ -125,5 +125,5 @@ public class CreateActivity extends AppCompatActivity {
 // kode untuk pengambilan Intent
         return new Intent(activity, CreateActivity.class);
     }
-    //Mengedit data User 2
+    // Menambahkan kode 2
 }
